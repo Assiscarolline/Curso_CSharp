@@ -13,7 +13,7 @@
             salario =Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Digite o tempo: ");
-            tempo = Convert.ToDouble(Console.ReadLine());
+            tempo = Convert.ToDouble(Console.ReadLine());   
 
             
             
